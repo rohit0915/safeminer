@@ -1,0 +1,34 @@
+.asked_question {
+  color: black;
+  font-size: 25px;
+  font-weight: 600;
+}
+.icon_size {
+  font-size: 25px;
+}
+.icon_size1 {
+  font-size: 25px;
+  color: #93e9e9;
+}
+.faq_image{
+    width:70%;
+}
+
+
+@media only screen and (min-width:300px) and (max-width:750px){
+    .asked_question {
+        color: black;
+        font-size: 14px;
+        font-weight: 600;
+      }
+      .icon_size {
+        font-size: 15px;
+      }
+      .icon_size1 {
+        font-size: 15px;
+        color: orange;
+      }
+      .faq_image{
+        width:100%;
+    }
+}

@@ -1,0 +1,71 @@
+.login_signup_button {
+  align-items: center !important;
+  min-height: 48px !important;
+  padding: 8px 24px !important;
+  border-radius: 8px !important;
+  border: 1px solid #93e9e9 !important;
+  background: 0 0 !important;
+  font-size: 14px !important;
+  color: #423c33 !important;
+  font-family: sans-serif !important;
+  font-weight: 600 !important;
+  background-color: #93e9e9 !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+.login_signup_button2 {
+  align-items: center !important;
+  min-height: 48px !important;
+  padding: 8px 24px !important;
+  border-radius: 8px !important;
+  border: 1px solid #93e9e9 !important;
+  background: 0 0 !important;
+  font-size: 14px !important;
+  color: #423c33 !important;
+  font-family: sans-serif !important;
+  font-weight: 600 !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.login_image {
+  width: 90%;
+}
+
+.link_color_signup {
+  color: cyan;
+  cursor: pointer;
+}
+@media only screen and (min-width: 300px) and (max-width: 750px) {
+  .login_signup_button {
+    align-items: center !important;
+    min-height: 48px !important;
+    padding: 4px 14px !important;
+    border-radius: 8px !important;
+    border: 1px solid #93e9e9 !important;
+    background: 0 0 !important;
+    font-size: 10px !important;
+    color: #423c33 !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    background-color: #93e9e9 !important;
+    text-decoration: none !important;
+    outline: none !important;
+  }
+  .login_signup_button2 {
+    align-items: center !important;
+    min-height: 48px !important;
+    padding: 4px 14px !important;
+    border-radius: 8px !important;
+    border: 1px solid #93e9e9 !important;
+    background: 0 0 !important;
+    font-size: 10px !important;
+    color: #423c33 !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    background-color: transparent !important;
+    text-decoration: none !important;
+    outline: none !important;
+  }
+}

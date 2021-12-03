@@ -1,0 +1,27 @@
+.footer_back_color {
+  background-color: #93e9e9;
+}
+.FotterHead_links {
+  color: #000;
+  font-weight: 700;
+  font-size: 17px;
+}
+.footer_image{
+  width: 60% !important;
+}
+.Footer_heading_Links {
+  font-size: 15px;
+  color: #000;
+  padding-bottom: 5px;
+  line-height: 20px;
+}
+.Footer_heading_Links:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.footer_bottom_color{
+  background-color: #232838 !important;
+}
+.payment_icons{
+  width: 50px;
+}
